@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoMob/DemoMob.iml" filepath="$PROJECT_DIR$/DemoMob/DemoMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobShare.iml" filepath="$PROJECT_DIR$/MobShare.iml" />
+    </modules>
+  </component>
+</project>
